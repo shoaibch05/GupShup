@@ -1,3 +1,4 @@
-# Lama Dev Chat App Starter template
+# GupShup App by Shoaib Ch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is real time chatting app
+built by using react and firebase
